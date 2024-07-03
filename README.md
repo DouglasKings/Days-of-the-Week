@@ -1,2 +1,2 @@
 # Days of the Week
- This is a C program for Enumerations
+Day of the Week: Create an enumeration for the days of the week. Write a program that asks the user to input a number (1-7) and outputs the corresponding day of the week.
